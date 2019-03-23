@@ -102,7 +102,7 @@ Donators
 /lp group Legend permission set discordsrv.sync.251395633603280906
 
 /lp group Legend permission set discordsrv.sync.127589694845353984
-\
+
 
 /lp group Premium permission set discordsrv.player
 
