@@ -7,6 +7,7 @@ Staff Ranks
 
 /lp group Admin permission set discordsrv.silentjoin
 
+
 /lp group Admin permission set discordsrv.silentquit
 
 /lp group Staff Manager permission set discordsrv.admin
@@ -14,6 +15,7 @@ Staff Ranks
 /lp group Staff Manager permission set discordsrv.silentjoin
 
 /lp group Staff Manager permission set discordsrv.silentquit
+
 
 /lp group Sr.Mod permission set discordsrv.player
 
@@ -38,9 +40,12 @@ Staff Ranks
 
 /lp group Moderator permission set discordsrv.silentjoin
 
-/lp group Trial-Moderator permission set discordsrv.silentquit
+/lp group Moderator permission set discordsrv.sync.251395633603280906
 
-/lp group Trial-Moderator permission set discordsrv.sync.
+/lp group Moderator permission set discordsrv.sync.127589904229072896
+
+
+/lp group Trial-Moderator permission set discordsrv.silentquit
 
 /lp group Trial-Moderator permission set discordsrv.player
 
@@ -52,7 +57,10 @@ Staff Ranks
 
 /lp group Trial-Moderator permission set discordsrv.silentquit
 
-/lp group Trial-Moderator permission set discordsrv.sync.
+/lp group Trial-Moderator permission set discordsrv.sync.251395633603280906
+
+/lp group Trial-Moderator permission set discordsrv.sync.196306076323282945
+
 
 Donators
 
@@ -68,6 +76,7 @@ Donators
 /lp group GOD permission set discordsrv.sync.251395633603280906
 
 /lp group GOD permission set discordsrv.sync.127589901536329728
+
 
 /lp group Herobrine permission set discordsrv.player
 
@@ -108,12 +117,14 @@ Donators
 /lp group Premium permission set discordsrv.sync.127589695168184321
 
 
-
 User 
 
 
 /lp group user permission set discordsrv.player
+
 /lp group user permission set discordsrv.unlink discordsrv.silentjoin
+
 /lp group user permission set discordsrv.silentjoin
+
 /lp group user permission set discordsrv.silentquit
-/lp group user permission set 
+
