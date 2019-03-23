@@ -122,7 +122,7 @@ User
 
 /lp group user permission set discordsrv.player
 
-/lp group user permission set discordsrv.unlink discordsrv.silentjoin
+/lp group user permission set discordsrv.unlink
 
 /lp group user permission set discordsrv.silentjoin
 
