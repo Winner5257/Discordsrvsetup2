@@ -134,7 +134,7 @@ MinecraftPlayerLeaveMessageFormat: ":heavy_minus_sign: **%displayname% left the 
 # %date%:         current date & time
 # PlaceholderAPI placeholders are also supported
 #
-MinecraftPlayerDeathMessageFormat: ":skull: **%deathmessage%**"
+MinecraftPlayerDeathMessageFormat: ""
 
 # Minecraft -> Discord achievement/advancement messages
 #
@@ -147,7 +147,7 @@ MinecraftPlayerDeathMessageFormat: ":skull: **%deathmessage%**"
 # %date%:        current date & time
 # PlaceholderAPI placeholders are also supported
 #
-MinecraftPlayerAchievementMessagesFormat: ":medal: **%displayname% has made the advancement %achievement%!**"
+MinecraftPlayerAchievementMessagesFormat: ""
 
 # Channel topic updater messages
 # This is all the stuff related to automatically updating the chat or console channel's topics with server information
@@ -188,8 +188,8 @@ DiscordCommandFormat: "&bJoin us on Discord at https://discord.gg/KFu7ajk. For c
 # DiscordChatChannelServerStartupMessage: message to be sent when server starts; leave blank to disable
 # DiscordChatChannelServerShutdownMessage: message to be sent when server shuts down; leave blank to disable
 #
-DiscordChatChannelServerStartupMessage: ":white_check_mark: **Server has started**"
-DiscordChatChannelServerShutdownMessage: ":octagonal_sign: **Server has stopped**"
+DiscordChatChannelServerStartupMessage: ""
+DiscordChatChannelServerShutdownMessage: ""
 
 # Server watchdog message
 #
